@@ -1,6 +1,7 @@
-document.write("Hello world!");
+document.writeln("Hello world!");
 function add(a,b){
    return a+b
 }
-add(12,10)
+var num = add(12,10)
+document.writeln(num)
 
