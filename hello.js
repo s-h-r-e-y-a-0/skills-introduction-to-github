@@ -1,4 +1,4 @@
-document.write("Hello world!");
+document.writeln("Hello world!");
 function greet(){
-    window.alert("Hello Shreya");
+    document.writeln("Hello Shreya");
 }
